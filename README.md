@@ -1,2 +1,2 @@
 # php
-This repository is only for php practicing without laravel
+This repository is only for practicing php without laravel
