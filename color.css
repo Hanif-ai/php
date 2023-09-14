@@ -1,0 +1,37 @@
+h2{
+    color: white;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.form_container{
+    padding: 100px;
+    background: #524f7c;
+}
+select#conversion_type {
+    width: 100%;
+}
+input[type="number"] {
+    padding: 9px;
+    border: none;
+    margin: 20px 0px;
+    width: 250px;
+}
+select#conversion_type {
+    height: 36px;
+    border: none;
+    padding: 8px;
+}
+button {
+    margin-top: 15px;
+    border: none;
+    width: 100%;
+    padding: 10px 0px;
+    cursor: pointer;
+    background: #46afd7;
+    color: white;
+    font-size: 18px;
+}
