@@ -17,6 +17,7 @@
             <div class="result">
                 <?php
                 if($_SERVER["REQUEST_METHOD"] == "POST"){
+                    
                     $number = $_REQUEST["number"];
                     if($number % 2 == 0 ){
                         $result = "<h2>$number is an even number</h2>";
