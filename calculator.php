@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Comparison Tool</title>
+    <title>Simple Calculator</title>
     <style>
         <?php include("color.css")?>
     </style>
@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="form_container grade">
-            <h2>Calculator</h2>
+            <h2>Simple Calculator</h2>
             <form method="post" action="#">
                 <input type="number" name="first_number" placeholder="Enter 1st Number"></br>
                 <input type="number" name ="second_number" placeholder="Enter 2nd Number"></br>
